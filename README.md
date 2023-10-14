@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Food-app
+Dynamic and responsive Food-app Web Application Using React JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
